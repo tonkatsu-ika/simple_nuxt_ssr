@@ -1,15 +1,12 @@
 <template>
   <div class="container">
-    {{ message }}
+    Simple SSR
   </div>
 </template>
 
 <script>
 
 export default {
-  data: {
-    message: 'hello ssr1'
-  },
   components: {
   }
 }
